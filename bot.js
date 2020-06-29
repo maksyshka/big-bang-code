@@ -38,6 +38,4 @@ bot.on('text', async (ctx) => {
   }
 });
 bot.launch();
-
-// eslint-disable-next-line no-console
 console.log('Бот запущен');
